@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191512895221",
+    "project_id": "mindbloom-df923",
+    "storage_bucket": "mindbloom-df923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191512895221:android:67ce07fbd2d54d01b2afbc",
+        "android_client_info": {
+          "package_name": "com.example.mindbloom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191512895221-4uih9lsfkgrtnbdukf2t8m40qq7cll1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNma8ooFZ4HgPtRXnoyJy0cYc_OEMiURg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191512895221-4uih9lsfkgrtnbdukf2t8m40qq7cll1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
